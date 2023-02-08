@@ -11,7 +11,7 @@
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=idea,eclipse,visualStudio,vscode" />
+    <img src="https://skillicons.dev/icons?i=idea,eclipse,visualstudio,vscode" />
   </a>
 </p>
 
