@@ -1,13 +1,13 @@
 # Noa Second
 
 ![Noa's GitHub stats](https://github-readme-stats.vercel.app/api?username=YoruKiwi&show_icons=true&theme=nord)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YoruKiwi&show_icons=true&theme=nord)](https://github.com/YoruKiwi/github-readme-stats)
 
 <a href="https://github.com/YoruKiwi/web.noasecond.com">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YoruKiwi&repo=web.noasecond.com" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YoruKiwi&repo=web.noasecond.com&show_icons=true&theme=nord" />
 </a>
 <a href="https://github.com/YoruKiwi/BOT-La-Corbeille">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YoruKiwi&repo=BOT-La-Corbeille" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YoruKiwi&repo=BOT-La-Corbeille&show_icons=true&theme=nord" />
 </a>
 
 ## Social media
