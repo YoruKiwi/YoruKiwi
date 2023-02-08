@@ -1,7 +1,7 @@
 # Noa Second
 
-![Noa's GitHub stats](https://github-readme-stats.vercel.app/api?username=YoruKiwi&show_icons=true&theme=nord)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YoruKiwi&show_icons=true&theme=nord)]
+![Mes stats GitHub !](https://github-readme-stats.vercel.app/api?username=YoruKiwi&show_icons=true&theme=nord)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YoruKiwi&show_icons=true&theme=nord)
 
 <a href="https://github.com/YoruKiwi/web.noasecond.com">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YoruKiwi&repo=web.noasecond.com&show_icons=true&theme=nord" />
@@ -11,9 +11,9 @@
 </a>
 
 ## Social media
-[![My Skills](https://skillicons.dev/icons?i=instagram,linkedin)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=instagram,linkedin)](https://link.noasecond.com)
 
-## programming
+## Programming
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,php,mysql,java,maven,androidstudio,unreal,unity,arduino,discord,bots" />
