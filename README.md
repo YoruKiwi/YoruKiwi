@@ -1,8 +1,8 @@
 # Noa Second
 
-![Mes stats GitHub !](https://github-readme-stats.vercel.app/api?username=YoruKiwi&show_icons=true&theme=nord)
+[![Mes stats GitHub !](https://github-readme-stats.vercel.app/api?username=YoruKiwi&show_icons=true&theme=nord)](https://github.com/YoruKiwi)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YoruKiwi&show_icons=true&theme=nord)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YoruKiwi&show_icons=true&theme=nord)](https://github.com/YoruKiwi)
 
 
 ## Projects :
