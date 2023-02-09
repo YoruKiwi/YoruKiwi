@@ -1,8 +1,11 @@
 # Noa Second
 
 ![Mes stats GitHub !](https://github-readme-stats.vercel.app/api?username=YoruKiwi&show_icons=true&theme=nord)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YoruKiwi&show_icons=true&theme=nord)
 
+
+## Projects :
 <a href="https://github.com/YoruKiwi/web.noasecond.com">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YoruKiwi&repo=web.noasecond.com&show_icons=true&theme=nord" />
 </a>
@@ -10,10 +13,10 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YoruKiwi&repo=BOT-La-Corbeille&show_icons=true&theme=nord" />
 </a>
 
-## Social media
+## Social media :
 [![My Skills](https://skillicons.dev/icons?i=instagram,linkedin)](https://link.noasecond.com)
 
-## Programming
+## Programming :
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,php,mysql,java,maven,androidstudio,unreal,unity,arduino,discord,bots" />
@@ -25,14 +28,14 @@
   </a>
 </p>
 
-## Creative apps
+## Creative apps :
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ae,au,ai,ps,pr,xd,figma,blender" />
   </a>
 </p>
 
-## Other
+## Other :
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=github,gitlab,grafana,linux" />
