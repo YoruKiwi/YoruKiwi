@@ -17,7 +17,7 @@
 </a>
 
 ## School based projects :
-<a href="[https://github.com/YoruKiwi/web.noasecond.com](https://github.com/YoruKiwi/R409-ERP-4E)">
+<a href="https://github.com/YoruKiwi/R409-ERP-4E">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YoruKiwi&repo=R409-ERP-4E&show_icons=true&theme=nord" />
 </a>
 <a href="https://github.com/YoruKiwi/R410-BetterTaquin">
