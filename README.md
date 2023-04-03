@@ -15,6 +15,9 @@
 <a href="https://github.com/YoruKiwi/BOT-La-Corbeille">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YoruKiwi&repo=BOT-La-Corbeille&show_icons=true&theme=nord" />
 </a>
+<a href="https://github.com/YoruKiwi/LaCorbeille-Plugin-MC">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YoruKiwi&repo=LaCorbeille-Plugin-MC&show_icons=true&theme=nord" />
+</a>
 
 ## School based projects :
 <a href="https://github.com/YoruKiwi/R409-ERP-4E">
@@ -31,6 +34,9 @@
 </a>
 <a href="https://github.com/YoruKiwi/SAE401-FunFactory">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YoruKiwi&repo=SAE401-FunFactory&show_icons=true&theme=nord" />
+</a>
+<a href="https://github.com/YoruKiwi/NekoFlora">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YoruKiwi&repo=NekoFlora&show_icons=true&theme=nord" />
 </a>
 
 ## Social media :
