@@ -12,6 +12,8 @@
 <a href="https://github.com/YoruKiwi/link.noasecond.com">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YoruKiwi&repo=link.noasecond.com&show_icons=true&theme=nord" />
 </a>
+
+## La-Corbeille projects :
 <a href="https://github.com/YoruKiwi/BOT-La-Corbeille">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YoruKiwi&repo=BOT-La-Corbeille&show_icons=true&theme=nord" />
 </a>
