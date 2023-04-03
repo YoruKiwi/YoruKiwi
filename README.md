@@ -37,8 +37,8 @@
 <a href="https://github.com/YoruKiwi/SAE401-FunFactory">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YoruKiwi&repo=SAE401-FunFactory&show_icons=true&theme=nord" />
 </a>
-<a href="https://github.com/YoruKiwi/NekoFlora">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YoruKiwi&repo=NekoFlora&show_icons=true&theme=nord" />
+<a href="https://github.com/YoruKiwi/R411-NekoFlora">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YoruKiwi&repo=R411-NekoFlora&show_icons=true&theme=nord" />
 </a>
 
 ## Social media :
