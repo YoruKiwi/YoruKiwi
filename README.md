@@ -47,7 +47,7 @@
 ## Programming :
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,php,mysql,java,maven,androidstudio,unreal,unity,arduino,discord,bots" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,jquery,nodejs,php,mysql,java,maven,androidstudio,unreal,unity,arduino,discord,bots" />
   </a>
 </p>
 <p align="center">
